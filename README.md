@@ -1,4 +1,4 @@
-# decision-tree__
+# decision-tree
 Tina Raissi<br \>
 24/01/2016<br \>
 <br \>
