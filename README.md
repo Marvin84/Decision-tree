@@ -15,7 +15,6 @@ Project Structure<br \>
 <br \>
 <br \>
 My project is compatible with Python 2.7.<br \>
-All the files (also datasets) must be in one directory.<br \>
 For using one of the datasets it is necessary to fill out the relative field in the read_file() function in trainTree.py.
-By launching trainTree.py it will be created automatically a file named program.py which will support the execution of 5fold.py. Program.py will contain also the printed tree in nested dictionary verison. The TrainTree.py prints also the simple tree version of the decision tree.<br \>
+By launching trainTree.py you will have program.py which supports the execution of 5fold.py. Program.py contains also the printed tree in nested dictionary verison. The TrainTree.py prints the simple tree version of the decision tree.<br \>
 The impFactory.py contains the Factory pattern used for the choice of Impurity Function.
