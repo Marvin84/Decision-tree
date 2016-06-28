@@ -1,3 +1,5 @@
+#  Created by Tina Raissi on 13/01/16.
+# Copyright (c) 2016 Tina Raissi. All rights reserved.
 from __future__ import division
 from copy import copy
 from trainTree import *
